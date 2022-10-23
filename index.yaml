@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  basic:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-23T21:51:35.191236408Z"
+    description: A Helm chart for Kubernetes
+    digest: cb362111674de223a1f0c766b743c5ac891c39a67bc0af33c5277d822bc9a478
+    name: basic
+    type: application
+    urls:
+    - https://github.com/miles-w-3/chart-sandbox/releases/download/basic-0.1.0/basic-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-23T21:51:35.191245509Z"
