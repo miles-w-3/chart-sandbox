@@ -1,2 +1,1 @@
-# chart-sandbox
-Experiment with charts and their building process
+This is a test of github pages
